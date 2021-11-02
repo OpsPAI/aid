@@ -4,7 +4,9 @@ This repository contains the code for ASE'21 paper *AID: Efficient Prediction of
 
 ## Data
 
-The `data` directory contains a small portion of the preprocessed traces used in our paper. The traces are sanitized subsets of the first-party microservice invocations in one of Huawei Cloud's geographical regions on April 11, 2021. The service names are desensitized.
+Please download the data from https://doi.org/10.5281/zenodo.5638238.
+
+The file contains a small portion of the preprocessed traces used in our paper. The traces are sanitized subsets of the first-party microservice invocations in one of Huawei Cloud's geographical regions on April 11, 2021. The service names are desensitized.
 
 ## Usage
 
